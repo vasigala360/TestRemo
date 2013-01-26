@@ -9,6 +9,7 @@ a.addEmail();
 a.addAccount();
 a.addContact();
 a.addOpportunity();
+a.addCase();
 }
 
 }

@@ -13,4 +13,7 @@ public void addContact(){
 public void addOpportunity(){
 	
 }
+public void addCase(){
+	
+}
 }
